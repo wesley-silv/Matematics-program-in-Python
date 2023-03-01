@@ -1,0 +1,13 @@
+Está pasta é destinada ao aprendizado da linguagem python, há neste conteúdo detalhes do uso da linguagem e aplicação em projetos.
+Date in 23/02/2023
+
+Este programa é uma aplicação backend para a realização de cálculos matemático, o programa fornece de forma escrita os dados para o usuário interagir com o programa.
+E entre esses dados é mostrado como o acessar o tipo de cálculo e inserção dos dados para a obtenção das resposta.
+
+Os programas estão contidos dentro de funções Python, dessa forma é possível chamá-las mais de uma vez e com o uso da importação, chamá-las dentro de outros programas.
+Ex: import triangle_area para importar e triangle_area para usar a função. 
+
+Projetos futuros: Criar um programa para calcular a tabuada numérica com python. 23/02/23
+
+
+
