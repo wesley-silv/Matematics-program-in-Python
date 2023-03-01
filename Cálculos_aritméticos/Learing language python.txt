@@ -8,6 +8,6 @@ Os programas estão contidos dentro de funções Python, dessa forma é possíve
 Ex: import triangle_area para importar e triangle_area para usar a função. 
 
 Projetos futuros: Criar um programa para calcular a tabuada numérica com python. 23/02/23
-
+Proje tabuada númerica concluido em 28/02/2023 
 
 
